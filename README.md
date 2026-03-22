@@ -2,6 +2,7 @@
 
 📌 Overview
 This project uses machine learning techniques to predict house prices based on various features such as location, size, number of rooms, and other property attributes. The goal is to provide accurate price estimates that can assist buyers, sellers, and real estate professionals.
+
 📂 Project Structure
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Jupyter notebooks for exploration & modeling
